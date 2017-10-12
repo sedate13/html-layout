@@ -1,0 +1,28 @@
+
+
+body{
+    background-color:#D3D2D3;
+}
+.header{
+    background-color: #3C3C3C;
+    height:10vh;
+    width:100%;
+    
+}
+
+.middle{
+    height:80vh;
+    width: 80%;
+    background-color:white;
+    margin:auto;
+    
+   
+    
+}
+
+.bottom{
+    background-color:black;
+    height:10vh;
+    width:80%;
+    margin:auto;
+}
